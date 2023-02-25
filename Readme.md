@@ -18,7 +18,7 @@ You can also find the snippet in the folder by the file named: Dashboard_snippet
 
 The dashboard is interactive and has tooltips for additional information on all the plots and visuals.
 
-Please let me what you think about this project
+Please let me know what you think about this project
 Thank you for reading!
 
 Happy Coding!!!
