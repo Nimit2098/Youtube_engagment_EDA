@@ -4,11 +4,9 @@ https://www.youtube.com/watch?v=QY8dhl1EQfI&t=614s
 
 You can download data_extraction.ipynb in the folder you choose and keep the code file with the youtube api credentials.
 
-Once we run this python code, there will be 2 output files. The first file will be a .json file with the categorical data of the videos and the other will be a .csv file that will have the dataframe stored in it. At this point the extraction of the data using the youtube api will be complete.
+Once we run this python code, there will be 2 output files. The first file will be a .json file with the categorical data of the videos and the other will be a .csv file named "youtube_data_preprocessed.csv" that will have the dataframe stored in it. At this point the extraction of the data using the youtube api will be complete.
 
-After the above step you can make a fresh notebook to clean and transform the data or you can use my notebook that is youtube_EDA.ipynb and mess around till you are satisfied.
-
-The output of this file will be "youtube_data_postprocessed.csv", which has cleaned and necessary features in the dataset.
+After the above step you can make a fresh notebook to clean and transform the data or you can use my notebook that is youtube_EDA.ipynb and mess around till you are satisfied. The output of this file will be "youtube_data_postprocessed.csv", which has cleaned and necessary features in the dataset.
 
 Last thing is to download the "Dashboard_youtube.pbix" in the same folder as other files.
 
