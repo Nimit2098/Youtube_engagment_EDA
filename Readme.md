@@ -1,5 +1,5 @@
 # Youtube Engagment EDA
-The first step will be to sert up a youtube api credentials. I had taken guidance of a youtube video i will like it down below
+The first step will be to sert up a youtube api credentials. I had taken guidance from a youtube video i have linked it down below
 https://www.youtube.com/watch?v=QY8dhl1EQfI&t=614s
 
 You can download data_extraction.ipynb in the folder you choose and keep the code file with the youtube api credentials.
