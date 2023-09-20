@@ -13,6 +13,7 @@ Last thing is to download the "Dashboard_youtube.pbix" in the same folder as oth
 Please run the above file in PowerBi and you can have the interactive dashboard that looks something like:
 You can also find the snippet in the folder by the file named: Dashboard_snippet.png
 ![Getting Started](./Youtube\Dashboard_snippet.png)
+<img src="Dashboard_snippet.png">
 
 The dashboard is interactive and has tooltips for additional information on all the plots and visuals.
 
